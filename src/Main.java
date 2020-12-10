@@ -27,6 +27,7 @@ public class Main extends GraphicsProgram {
     public void run(){
         this.setSize(windowWidth,windowHeight);
         addMouseListeners();
+        dialog.println("This is Harasho");
         game();
     }
 

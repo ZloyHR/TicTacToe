@@ -19,7 +19,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Eclipse/HomeWork2/karel.jar!/" />
+          <root url="jar://$USER_HOME$/eclipse/HomeWork2/karel.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/NaUKMA/prog_lang/acm.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
